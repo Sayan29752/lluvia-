@@ -127,7 +127,7 @@
       "En la noche, tu luz es la más brillante.",
       "Más que mil estrellas en el cielo distante.",
       "Tu sonrisa eclipsa la luna y su reflejo,",
-      "y tu belleza hace al universo pequeño."
+      "y tu belleza hace al universo pequeño Sandy."
     ];
 
     function escribirLinea5() {
